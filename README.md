@@ -170,6 +170,8 @@
   - [ ] 🟡 [Medium] [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
   - [ ] 🟡 [Medium] [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
   - [ ] 🟡 [Medium] [2013. Detect Squares](https://leetcode.com/problems/detect-squares/)
+- ** Misc **
+  - [x] 🟡 [Medium] [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 
 ## Description
 

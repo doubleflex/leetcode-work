@@ -173,8 +173,8 @@
 - ** Misc **
   - [x] 🟡 [Medium] [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
   - [x] 🟡 [Medium] [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
-  - [x] 🟢 [Easy] [1768. Merge Strings Alternately
-](https://leetcode.com/problems/merge-strings-alternately)  
+  - [x] 🟢 [Easy] [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
+  - [x] 🟡 [Medium] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
 
 ## Description
 
